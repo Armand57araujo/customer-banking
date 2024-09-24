@@ -8,7 +8,7 @@
 | Git | [https://git-scm.com/](https://git-scm.com/) | 
 
 ## Description 
-In this project I created a(COMPLETE)....
+In this project I created a customer banking system which allows customers to calculate and track interest earned on savings and CD accounts. Running this application will enable customers to be able to enter their savings and CD account information, see the interest earned, and view the updated balances after a specified number of months.
 
 ## Code Example 
 
